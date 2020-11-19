@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+
+html {
+  background-color: rgb(194, 28, 28)
+}
+h1 {
+  font-family: "Abril Fatface", serif;
+  font-size: 40pt;
+  font-weight: 400;
+}
+h2 {
+  font-family:"Modak", fantasy;
+  font-weight: 200;
+}
+p {
+  font-family:"Roboto slab", sans-serif;
+  font-weight: 100;
+}
